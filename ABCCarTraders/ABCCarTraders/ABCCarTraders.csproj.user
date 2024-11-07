@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminHomeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarFormUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarPartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarPartOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarPartsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerHomeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderCarFormUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderCarPartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdersUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserProfileUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
